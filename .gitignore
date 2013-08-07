@@ -1,0 +1,16 @@
+# Compiled Source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.hi
+
+
+*.pyc
+
+# All /bin folders #
+####################
+bin/
