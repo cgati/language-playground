@@ -5,7 +5,7 @@ tabTest = "This will work because " ++ filler ++ reasonItWorks
 
 
 tabTestFailure :: String
-tabTestFailure = "This will not work because " ++ reasonItFails
+tabTestFailure = "This will not work because " ++ filler ++ reasonItFails
 	where filler = ""
 				reasonItFails = "I used tabs instead of spaces to indent this."
 
